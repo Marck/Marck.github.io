@@ -1,4 +1,4 @@
-## Repository contributions status
+# Repository contributions status
 
 Here is an overview of all issues and pull requests per repository
 
